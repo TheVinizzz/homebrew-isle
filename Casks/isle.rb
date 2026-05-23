@@ -1,6 +1,6 @@
 cask "isle" do
-  version "0.1.3"
-  sha256 "d08411aa49ff7008538249326487a25fa9728f16f6b45bb1abd612b97b40047e"
+  version "0.1.4"
+  sha256 "a383490c1f7adfb7ad682bf28b05a0b68e9b80690aa0e9c8c4d1179d7d09d8c9"
 
   url "https://github.com/TheVinizzz/Isle/releases/download/v#{version}/Isle-#{version}.dmg",
       verified: "github.com/TheVinizzz/Isle/"
